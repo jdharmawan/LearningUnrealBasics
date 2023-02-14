@@ -2,7 +2,13 @@
 
 #include <iostream>
 
+using namespace std;
+
+/**
+ * Prints something
+ * @return Exit status
+*/
 int main()
 {
-    std::cout << "Hello World!\n";
+    cout << "Hello World!\n";
 }
