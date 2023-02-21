@@ -1,2 +1,4 @@
 ﻿  FirstConsoleApp.cpp
+C:\Users\user\Documents\Joshua Dharmawan\Private Stuff\Unreal Course\MainRepo\LearningUnrealBasics\FirstConsoleApp\FirstConsoleApp\FirstConsoleApp.cpp(21,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\user\Documents\Joshua Dharmawan\Private Stuff\Unreal Course\MainRepo\LearningUnrealBasics\FirstConsoleApp\FirstConsoleApp\FirstConsoleApp.cpp(50,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
   FirstConsoleApp.vcxproj -> C:\Users\user\Documents\Joshua Dharmawan\Private Stuff\Unreal Course\MainRepo\LearningUnrealBasics\FirstConsoleApp\x64\Debug\FirstConsoleApp.exe
